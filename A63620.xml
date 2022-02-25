@@ -1,0 +1,202 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A true narrative of the tryals of Titus Oats for perjury at the Kings-bench-barr at VVestminster, on Friday and Saturday the 8th and 9th days of this present May, 1685.</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1685</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 20 KB of XML-encoded text transcribed from 3 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2014-11">2014-11 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A63620</idno>
+            <idno type="STC">Wing T2840AC</idno>
+            <idno type="STC">ESTC R222399</idno>
+            <idno type="EEBO-CITATION">99833577</idno>
+            <idno type="PROQUEST">99833577</idno>
+            <idno type="VID">38054</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A63620)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 38054)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 2180:7)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A true narrative of the tryals of Titus Oats for perjury at the Kings-bench-barr at VVestminster, on Friday and Saturday the 8th and 9th days of this present May, 1685.</title>
+               </titleStmt>
+               <extent>4 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed by E. Mallet in Black-Horse-Alley neer Fleet-Bridge,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1685.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Caption title.</note>
+                  <note>Imprint from colophon.</note>
+                  <note>Incorrectly identified as Wing (2nd ed.) T2840AC on film and in reel guide.</note>
+                  <note>Also published in the same year with title: True narrative of the tryal of Titus Oats for perjury at the Kings-bench-barr at VVestminster (Wing CD-ROM, 1996 T2840AC).</note>
+                  <note>Reproduction of the original in the Henry E. Huntington Library and Art Gallery.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Oates, Titus, 1649-1705 --  Early works to 1800.</term>
+               <term>Trials (Perjury) --  England --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2008-11</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2009-01</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2013-04</date>
+            <label>John Latta</label>Sampled and proofread</change>
+         <change>
+            <date>2013-04</date>
+            <label>John Latta</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2014-03</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="trial_proceedings">
+            <pb facs="tcp:38054:1"/>
+            <div n="1" type="trial">
+               <head>A TRUE NARRATIVE OF THE TRYALS OF Titus Oats FOR PERJURY AT THE Kings-Bench-Barr AT VVESTMINSTER, On <hi>Friday</hi> and <hi>Saturday</hi> the 8th and 9th Days of this preſent <hi>May,</hi> 1685.</head>
+               <p>WHereas <hi>Titus Oats</hi> was Tryed on <hi>Friday</hi> the 8th. of this Inſtant <hi>May</hi> for <hi>Perjury</hi> and Convicted thereof: He likewiſe was brought to his ſecond Tryal for <hi>Per<g ref="char:EOLhyphen"/>jury</hi> on <hi>Saturday</hi> the 9th. of this Inſtant <hi>May,</hi> of which, I ſhall give the <hi>Rea<g ref="char:EOLhyphen"/>der</hi> an exact Account as they were in Order, beginning with the Tryal of <hi>Fri<g ref="char:EOLhyphen"/>day</hi> firſt: The manner thus,</p>
+               <p>About Nine of the Clock in the Forenoon the Court Sat, where was the Right Honoura<g ref="char:EOLhyphen"/>ble Sir <hi>George Jefferies</hi> Knt. and Bar. Lord Chief Juſtice of <hi>England,</hi> Judge <hi>Withens,</hi> Judge <hi>Hol<g ref="char:EOLhyphen"/>loway,</hi> &amp;c. Being on the Bench and the Jury called, <hi>Oats</hi> excepted againſt ſome of them, for being of the Grand Jury when the Indictment was found and it was admitted for a juſt Bar; then the Indictment was read in <hi>Latin</hi> and <hi>Engliſh,</hi> the ſubſtance of which was, that whereas <hi>Titus Oats</hi> had Sworn and cauſed to be put to Death ſeveral Perſons, namely the Five <hi>Jeſuits, Pick ring, Groves,</hi> and <hi>Ireland,</hi> &amp;c. He Swore that he was at a Conſult at the <hi>White-Horſe Ta<g ref="char:EOLhyphen"/>vern</hi> in the <hi>Strand,</hi> where he being preſent, and carrying the Papers, in which the Death of King <hi>Charles</hi> the Second of Bleſſed Memory, was ſigned from one Chamber to another, where he ſaid they all unanimouſly Signed the Kings Death on the 24th. of <hi>April, Anno Dom.</hi> 1678. The Falſitie of which was proved by theſe following Evidence, <hi>&amp;c.</hi> being all Perſons of Quality and Eſtates who hapned to be Students at St. <hi>Omers</hi> at that time that <hi>Oats</hi> was there. Firſt, Mr. <hi>Hillſley</hi> depoſed that he came from St. <hi>Omers</hi> the very day that Mr. <hi>Oats</hi> pretended that the Conſult was in the <hi>Strand,</hi> and that he left Mr. <hi>Oats</hi> there; and whereas <hi>Oats</hi> had for<g ref="char:EOLhyphen"/>merly Sworn that he came over with <hi>Hilſley: Hillſley</hi> Swore he did not ſee him all the way: Then Mr. <hi>B<gap reason="illegible: faint" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>rnaby</hi> Swore that he met Mr. <hi>Hillſley</hi> by the way, and he ſaw not <hi>Oats</hi> with him, and that going on to St. <hi>Omers,</hi> and Arriving there, within two days after he had met Mr. <hi>Hillſley</hi> in Kent, he found Mr. <hi>Oats</hi> at St. <hi>Omers,</hi> ſo that he poſſibly could not be here in <hi>Lon<g ref="char:EOLhyphen"/>don;</hi> all the reſt of the Witneſſes for the King, Swore that <hi>Oats</hi> coming to St. <hi>Omers</hi> about <hi>December</hi> 1677. never was to their knowledge out of their Seminory till the Mid Summer 16<gap reason="illegible: faint" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>8. But one Night which was at <hi>VVatton,</hi> a place about two Leagues from St. <hi>Omers,</hi> and they ſaw him every day either at Meat or Play, and that he was ſo remarkable for his odd Carriage, that they took particular notice of him, eſpecially he ſitting at a particular Table, and not among
+<pb n="2" facs="tcp:38054:2"/>the Boys, by reaſon of his Age. This was atteſted by above 20 Witneſſes, <hi>viz.</hi> Lord <hi>Gerrard Bromely. —Gerrard</hi> Eſq —<hi>Haggerſton</hi> Eſq —<hi>VVright</hi> Eſq —<hi>Price</hi> Eſq Mr. <hi>Arundel, —Tur<g ref="char:EOLhyphen"/>bervil</hi> Eſq —<hi>Thornton</hi> Eſq —<hi>Pool</hi> Eſq Mr. <hi>Dorrel</hi> and one Mr. <hi>Morgan,</hi> one that was then a Papiſt, but is now a Church of <hi>England</hi> Miniſter, <hi>&amp;c.</hi>
+               </p>
+               <p>Mr. <hi>Oats</hi>'s Queſtions put to them, was, what Religion they were of, and how long they were there, and what they did there; and offered to ask ſome things, which was, as my <hi>Lord Chief Juſtice</hi> told him, not proper nor fit for them to anſwer, becauſe of Penal Statutes againſt <hi>Papiſts:</hi> He behaved himſelf with his wonted Confidence, and ſeemed to have more Braſs in his Face than ever; but my <hi>Lord Chief Juſtice</hi> kept him within his Bounds, and gave him all the fair play immaginable; before he began his particular Defence; he made a long canting Harangue how he had been believed by Parliaments, and how ſeveral Judges had ſpoke for<g ref="char:EOLhyphen"/>merly of him, and particularly my <hi>Lord Chief Juſtice;</hi> all which being not admitted as Evi<g ref="char:EOLhyphen"/>dence, he was directed by the Court, to prove his being here in <hi>April</hi> the 24th 78. he produ<g ref="char:EOLunhyphen"/>ced one Mrs. <hi>Cicely Majo;</hi> who Swore that about that time ſhe ſaw him in a Diſguiſe at Sir <hi>Richard Barkers</hi> Houſe: He having on a Gray Hat, no Hair, a pitiful Gray Sute. Sir <hi>Robert</hi>'s Coach-man, ſwore he ſaw him there in a black hat, a long Black Perriwig and a Cinnamon Sute; beſides they diſagreed in ſeveral things, and ſo they being but otherwiſe deſpicable People, their Evidence was looked upon as nothing worth; and they contradicted <hi>Oats</hi>'s own Teſtimony, for he ſwore he was back at St. <hi>Omers</hi> in the beginning of <hi>May,</hi> and my <hi>Lord Chief Juſtice</hi> asked <hi>Oats</hi> where he Lodged when he pretended to be here in <hi>April</hi> and the beginning of <hi>May,</hi> that he might produce the People of the houſe to be Evidence for his being here; but he ſhuffled and would Aſſign none, which was look'd on by all as a clear Conviction. After this, Mr. <hi>Oats</hi> to make a Noiſe cauſed to be called many great Names to ſhew what Authority his Evidence once had, <hi>viz.</hi> my Lord <hi>Devonſhire,</hi> my Lord <hi>Clay,</hi> who ſaid it was ſo long ſince, that they could give ſmall Account of it; my Lord <hi>Huntingdon</hi> ſaid it is true, he once believed ſomething which he ſwore, but he did now on his Conſcience believe him to be an errant Rogue, and a ſpiller of Innocent Blood.</p>
+               <p>My Lord Barron <hi>Montague</hi> being called by <hi>Oats,</hi> he gave him a ſlender Character, and that formerly he did not hear him.</p>
+               <p>Mr. <hi>VVilliams,</hi> Speaker of the <hi>Houſe of Commons,</hi> Sir <hi>George Treby</hi> were called, but ſaid lit<g ref="char:EOLhyphen"/>tle or nothing.</p>
+               <p>After Mr. <hi>Oats</hi> had done with his Evidence, Mr. <hi>Attorney General</hi> brought in more Evi<g ref="char:EOLhyphen"/>dence for the King, ſome to prove others to Coroberate. The Witneſſes to prove were firſt Sir <hi>George VVakeman,</hi> who was formerly quitted at the <hi>Old-Bayly:</hi> After Sir <hi>George</hi> was ſworn he was asked by Court with what Mr. <hi>Oats</hi> had formerly ſworn againſt him, <hi>viz.</hi> of taking 1500 <hi>l.</hi> to poyſon the King; and he anſwered by Virtue of the Oath he had taken, it was all falſe. My Lord <hi>Caſtlemain</hi> atteſted the ſame as to the Treaſon <hi>Oats</hi> had formerly Charged him with: then one Mr. <hi>Smith,</hi> formerly Schoolmaſter in <hi>Iſlington</hi> was produced, and it was proved that he confeſſed himſelf Perjured in favor of <hi>Oats</hi>'s Teſtimony in the Tryal of the five Jeſuits being induced by Fear and Gain.</p>
+               <p>The ſame was proved upon one Mr. <hi>Clay,</hi> who was induced by threats and promiſes of <hi>Oats</hi> and Sir <hi>VVilliam VValler,</hi> this was proved by one <hi>Davenport</hi> a Keeper of the Goal who heard him threaten <hi>Clay</hi> with Death, unleſs he would ſecond his Evidence, and he being an Old Weak Man, was drawn in: After the Evidence on both ſides had made an end, My <hi>Lord Chief Ju<g ref="char:EOLhyphen"/>stice</hi> told the Priſoner he had free Liberty to make what Exceptions he pleaſed, Who then be<g ref="char:EOLhyphen"/>gan a long and Malapart harangue, the chief drift of which, was to prove the Papiſts ought not to be Credited becauſe they were Papiſts, and for this produced ſome Records and Statutes.</p>
+               <p>And to this he was anſwered by my <hi>Lord Chief Juſtice,</hi> that by the ſame Reaſon all the Diſ<g ref="char:EOLhyphen"/>ſenters from the Church of <hi>England</hi> ought to be excepted, and that it was impoſſible at that Rate that any man ſhould have Right done him.</p>
+               <p>
+                  <hi>Oats</hi> was for the moſt part all along his ſpeech Impertinent and Saucy, ſo that my Lord threatned to turn him out of the Court, and after he had ſpent ſomething more than half an hours time he withdrew of himſelf, and went out of the Hall, with his Guards a long with him; as he came towards the middle of the Hall, the People began to Shout, and ſo Shouted him quite out of the <hi>Hall.</hi>
+               </p>
+               <p>After a little ſpace of Silence, the Solicitor General began to ſum up the whole, and continued for three quarters of an hour. When he had done, My Lord <hi>Chief Juſtice</hi> began a moſt Eloquent and Emphatical Speech.</p>
+               <p>Amongſt other things, telling the Jury, that this was a Cauſe that the <hi>Honour</hi> of the whole Nation was concerned in, not to let a perſon ſo publickly infamous, eſcape Juſtice. That he was a perſon of an hardned impudence and Conſcience, and not worthy of the Name of the Church of <hi>England,</hi> that he was Guilty of ſpilling Innocent Blood, and had
+<pb n="3" facs="tcp:38054:2"/>fared no perſon though never ſo nearly related to the Crown: And after he had exactly and prticularly Summed up all the Witneſſes on both ſides: He concluded with theſe Words, <hi>That he was</hi> the <hi>Blackeſt Villain upon</hi> the <hi>Face of</hi> the Earth.</p>
+               <p>As theſe Prodigious Crimes do plainly manifeſt to every unprejudiced Perſon.</p>
+               <p>The ſpeech being ended, the Jury withdrew, and after a certain ſpace of time returned again, and brought h<gap reason="illegible: missing" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>m in Guilty of the Indictment.</p>
+            </div>
+            <div n="2" type="trial">
+               <head>The Second Tryal of <hi>Titus Oats</hi> for <hi>Perjury,</hi> in the Pretended <hi>Popiſh</hi> Plot.</head>
+               <p>THe <hi>Quondam Salamanca</hi> Doctor, being on <hi>Friday</hi> the 8th. of <hi>May</hi> Convicted of <hi>Perju<g ref="char:EOLhyphen"/>ry</hi> in Buſineſs relating to the pretended Conſult at the <hi>White-horſe-Tavern</hi> in the <hi>Strand,</hi> was on <hi>Saturday</hi> the 9th. Convicted of moſt Infamouſly and Maliciouſly for<g ref="char:EOLhyphen"/>ſwearing himſelf in the Tryal of <hi>Ireland</hi> the Jeſuit: The manner of the Proceedings was in this manner.</p>
+               <p>About Eight of the Clock on <hi>Saturday</hi> Morning, being the 9th. of this preſent Month of <hi>May (Anno Dom.</hi> 1685.) the Court being ſat, my <hi>Lord Chief Juſtice,</hi> Judge <hi>Withens, Walcot, Holloway,</hi> &amp;c. being on the Bench, the Jury was called and none accepted againſt; <hi>Oats</hi> asking if any had been o<gap reason="illegible: faint" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> the Grand Jury which was admitted for a Barr yeſterday; then they being Sworn, the Indictment (which was very long) was read in Engliſh, only the Subſtance of it was, that <hi>Oats</hi> had Sworn in the Tryal of <hi>Ireland,</hi> that he was with him at a Treacherous Conſult, ſome day betwixt the 8th. and 12th. of <hi>Auguſt, Anno Dom.</hi> 1678. and that after<g ref="char:EOLhyphen"/>wards he ſaid he was with him upon the ſame Account the 1ſt. or 2d. of <hi>September,</hi> all which was notoriouſly falſe as appeared by the following Evidence,</p>
+               <p>After the Indictment was read, Mr. <hi>Phips</hi> in ſhort opened it, and then one Mr. <hi>Waterhouſe</hi> formerly a Jurior in <hi>Irelands</hi> Tryal, and one Mr. <hi>Harriot</hi> a Jurior in the Tryal of the Five <hi>Jeſuites</hi> were called to prove that Mr <hi>Oats</hi> had formerly been poſitive to thoſe days: After this the Kings Council began to mannage the Evidence for the King; firſt were ſworn Mrs. <hi>Anne</hi> and Mrs. <hi>Elenor Ireland,</hi> the one the Mother and the other the Siſter of the abovenamed Mr. <hi>William Ireland,</hi> and they ſwore poſitively they took their leave of him on the 3d. of <hi>Auguſt</hi> in the year abovenamed at his Lodging in <hi>Ruſſel-ſtreet,</hi> and that he went for <hi>Stafford<g ref="char:EOLhyphen"/>ſhire</hi> and did not come back till the 14th. of <hi>September</hi> following; this was back'd by the Oaths of Mrs <hi>Duddell</hi> and Mrs, <hi>Quino.</hi> who ſaw him Boo<gap reason="illegible: faint" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap>d and took leave of him for his Journey, being the 3d. of <hi>Auguſt;</hi> that Night he came to my Lord <hi>Aſtons</hi> houſe at <hi>Standon</hi> in <hi>Hartford ſhire;</hi> this was atteſted by my Lord <hi>Aſton</hi> himſelf and Sir <hi>Edward Southcote</hi> who ſaw him there; this being <hi>Saturday:</hi> On the <hi>Monday</hi> following in the Company of my Lord <hi>Aſton</hi> and Sir <hi>Edward Southcote</hi> and their Servants, &amp;c. they went from St. <hi>Albans</hi> to <hi>Northampton,</hi> and on the <hi>Tueſday</hi> to <hi>Coventry</hi> and <hi>Wedneſday</hi> to <hi>Tixal,</hi> my Lord <hi>Aſtons</hi> Houſe in <hi>Staffordſhire,</hi> where he ſtay'd till 12th. of <hi>Auguſt,</hi> then he went to <hi>Winfreds</hi> Well in <hi>Flintſhire</hi> and came back in ſome of the ſame Company to <hi>Pixal</hi> the 17th. of <hi>Auguſt</hi> as was proved by ſeveral Witneſſes; one Mr. <hi>Harriſon</hi> brought a Note of every day, and Swore he Conducted him to his Lodging in <hi>Ruſſel-ſtreet</hi> the 14th. of <hi>September</hi> following; Mr. <hi>Hobſon</hi> jump'd with him in every thing as to the Journey, and Swore he ſaw him at <hi>Tixal</hi> the 26th. of <hi>August;</hi> the Journey down from St. <hi>Albans</hi> to <hi>Tixal,</hi> was likewiſe proved by one Mr. <hi>Inglethorp,</hi> who was in their Company all the way, and is a good Proteſtant.</p>
+               <p>Mr. <hi>Andrew Wet,</hi> a Proteſtant likewiſe proved Mr. <hi>Irelands</hi> Journey to <hi>Holliwel: Thomas Sawyer</hi> ſwore the ſame as to Mr. <hi>Ireland's</hi> going for <hi>Holliwel</hi> in <hi>Flint-ſhire,</hi> a Proteſtant like<g ref="char:EOLhyphen"/>wiſe.</p>
+               <p>Mrs. <hi>Allen</hi> ſwore Mr. <hi>Ireland</hi> came to <hi>Tixall</hi> the 8th. of <hi>Auguſt,</hi> and ſtayed ſome Three days, ſhe is likewiſe a Proteſtant.</p>
+               <p>Mrs. <hi>Jane Harwel</hi> ſwore ſhe ſaw him at <hi>Woolverhampton</hi> the 17th. of <hi>Auguſt</hi> and he lay there till the 26th. of the ſame month; this was back'd by the Teſtemony of Mr. <hi>Ruſton:</hi> Mrs <hi>VVingfield</hi> ſwore ſhe ſaw him in <hi>Stafford-ſhire</hi> the 18th. 19th. 20th. 21ſt. and 22d. of <hi>Auguſt.</hi>
+               </p>
+               <p>Mr. <hi>VVilliam Stanly</hi> ſwore he ſaw him the 18th. and 22d. of <hi>Auguſt.</hi> Mrs <hi>Dorothy Purcel</hi> ſwore to the 8th. 19th. 20th. and 23d, of <hi>Auguſt;</hi> this was back'd by the Evidence of one Mr. <hi>Scot..</hi>
+               </p>
+               <p>Mr. <hi>William Stamfield</hi> a Proteſtant ſaw him the 17th. of <hi>Auguſt:</hi> Mrs <hi>Cathrine Fowler</hi> ſwore to the 17th that ſhe ſaw him at <hi>VVolverhampton,</hi> and ſhe ſaw him there every day till the 26th. of <hi>Auguſt.</hi> Mrs. <hi>Eliz. Gifford</hi> ſwore much what the ſame, as likwiſe Mrs. <hi>Keeling,</hi> but beſides
+<pb n="4" facs="tcp:38054:3"/>ſhe ſaw him in <hi>Stafford-ſhire</hi> the 4th: of <hi>September.</hi> Mr. <hi>Richardſon</hi> the ſame, a Proteſtant.</p>
+               <p>Mrs. <hi>Greaves</hi> ſaw him there the 20, 22, 23, and 25. and Supp'd with him; ſhe declared to the Court (being asked) that he was a Proteſtant.</p>
+               <p>Sr. <hi>Thomas VVhitgrade</hi> a Juſtice of Peace, ſwore he ſaw him on the <hi>Bowling-Green</hi> at <hi>Ti<g ref="char:EOLhyphen"/>al</hi> the 29th. of <hi>Auguſt:</hi> Mr. <hi>Fowler</hi> ſaw him at a Horſe Race the 27th. of <hi>Auguſt.</hi> Mr. Ho<gap reason="illegible: faint" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap> ſwore to the 27 and 28. Mr. <hi>D<gap reason="illegible: faint" extent="1+ letters">
+                        <desc>•…</desc>
+                     </gap>co<gap reason="illegible: faint" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>
+                  </hi> to the 27 and 31 and the 1ſt. of <hi>September.</hi> Sr. <hi>Ja<gap reason="illegible: faint" extent="1+ letters">
+                        <desc>•…</desc>
+                     </gap> Simons</hi> ſwore to the 27 at the Horſe Race, where he ſaw him, as alſo the 29th. Mr. <hi>
+                     <gap reason="illegible: faint" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>reen</hi> ſwore to the 27 29 and 31. Mr. <hi>Follas</hi> a Proteſtant ſwore to the 29. Mr. <hi>Proctar</hi> a Proteſtant, ſwore he ſaw him at <hi>Hilderſham</hi> the 1ſt. of <hi>September.</hi> Mr. <hi>King</hi> ſwore he <gap reason="illegible: faint" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> him the 1ſt of <hi>September</hi> at <hi>Hilderſham,</hi> and the 2d. at Mrs. <hi>Cromptons</hi> 
+                  <gap reason="illegible: faint" extent="1 span">
+                     <desc>〈…〉</desc>
+                  </gap> 
+                  <hi>ſwore he was with</hi> Ireland <hi>at</hi> London) this was back'd by the Evidence of Mr. <hi>Lee.</hi> Mr <hi>Biddle</hi> or <hi>Bedal</hi> ſwore to the 2d. of <hi>September,</hi> and Mrs. <hi>Crompton,</hi> Mr. <hi>Pal<gap reason="illegible: faint" extent="1+ letters">
+                        <desc>•…</desc>
+                     </gap>
+                  </hi> and Mr <hi>Holms</hi> ſwore to the 1ſt. of <hi>September.</hi> Mr. <hi>Gifford</hi> to the 2d. of the <gap reason="illegible: missing" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ame mon<gap reason="illegible: faint" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap> where he ſaw him at <hi>Pancradge Fayer.</hi> Mr. <hi>VVilliam Pendril</hi> ſwore he was at his houſe the 4th. of <hi>September.</hi> Mrs. <hi>Mary Pendril</hi> ſwore to the 3d. and 4th of the ſame month. Mr. <hi>John Southwell</hi> and ſeveral others, ſwore they came with him from <hi>Tixal</hi> on the 9th. of <hi>September</hi> to a place in <hi>Surry</hi> belonging to Sr. — <hi>Southcote</hi> and than they Arrived there the 13th. of <hi>September,</hi> never coming near <hi>London</hi> all the Way, ſo that it was impoſſible he ſhould have been in <hi>London</hi> in <hi>Oats</hi> his time as he ſwore to, for he came not there till the 14th. all theſe gave Circumſtances to prove the days: The Queſtion <hi>Oats</hi> put them was what Religon and whether they had been formerly Wineſſes in former Tryals; nothing to the purpoſe: After the Kings Council had done (for they thought they had enough and were ready if Occaſion to call for more) <hi>Oats</hi> began his Defence, which was much ſuch another Cant as Yeſterday, <hi>viz.</hi> He had formerly been beleived, and that the Witneſſes were moſt of them Papiſts; then he began his paricular Defence, and firſt called Sr. <hi>Edmond VVarcup,</hi> who could ſay nothing to his advantage but diſadvantage; then one who was called by the Name of <hi>Sarah Pai<gap reason="illegible: faint" extent="1+ letters">
+                        <desc>•…</desc>
+                     </gap>
+                  </hi> and appeared, but ſhe ſaid ſhe was not the Woman her Name was Ba<gap reason="illegible: faint" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>in, and ſhe knew nothing of the matter, neither had ſhe formerly given Evi<g ref="char:EOLhyphen"/>dence, and deſired ſomething for her Journey, <hi>Oats</hi> ſaid he would take care of her ſince he had ſubpaened her from <hi>
+                     <g ref="char:V">Ʋ</g>xbridge:</hi> Then <hi>Oats</hi> called ſeveral other Witneſſes, but none appea<g ref="char:EOLhyphen"/>red; then he complained that Mr. <hi>Jennerſon</hi> was not there ſince he was ſubpaened, and inſiſt<g ref="char:EOLhyphen"/>ed much upon Mr. <hi>Bedlow's</hi> Dying Evidence and asked the Court, why not theſe Proceedings againſt him before? After he had made what pitiful Defence he could, Mr Sollicetor General ſum'd up the Evidence and anſwered every one of his trifling Objections, and told him the reaſon why this was not done ſooner, was becauſe of the unequity of the times and the Packing of Jurys and <hi>VVhigg Sheriffs.</hi> Then my Lord Chief Juſtice <hi>Jefferirs</hi> made a moſt excellent warm Loyal ſpeech, enlarging much upon what Mr. Sollicetor had, and anſwer<g ref="char:EOLhyphen"/>ed an Objection of <hi>Oats's</hi> about the nicity of time, in the example of <hi>Suſanna;</hi> after he had ended his ſpeech and run over the heads of the Evidence, the Jury went out and within a Quar<g ref="char:EOLhyphen"/>ter of an hour, brought him in Guilty of the Indictment. <hi>Oats</hi> behaved himſelf with great Impudence, and abuſed my Lord Chief Juſtice<hi>'s</hi> his Patience; he went away a great while (by leave of the Court) before the Virdict, as he did yeſterday, and met every where the ſame Welcome he did yeſterday, the hooting and hiſſing of the People: his Sentence will not be given theſe 5 or 6 nays.</p>
+            </div>
+         </div>
+      </body>
+      <back>
+         <div type="colophon">
+            <p>LONDON <hi>Printed by</hi> E. Mallet <hi>in</hi> Black-Horſe-Alley <hi>near</hi> Fleet-Bridge, <hi>1685.</hi>
+            </p>
+         </div>
+      </back>
+   </text>
+</TEI>
